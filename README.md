@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, this is @Valerimatical, or
+
+<hr>
+<h1 align="center"><em><code>The Fairy-type Gym Leader from Kalos, Valerie!</code></em></h1>
+<hr>
+
+I'm a member of @XPaVilion, and most of my work is done there.
+
+<img src="https://gpvc.arturio.dev/Valerimatical">
 
 <!--
-**Valerimatical/Valerimatical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Valerimatical/Valerimatical/README.md by @TurnipGuy30 as requested by @Valerimatical ~ find me at [https://TurnipGuy30.github.io]
 -->
